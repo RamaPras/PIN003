@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\PIN003coba.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\PIN003coba.exe
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\PIN003coba.pdb
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\PIN003coba.xml
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\Teradata.Client.Provider.dll
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\Teradata.Net.Security.Tdgss.dll
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\Teradata.Client.Provider.xml
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\ja\Teradata.Client.Provider.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\bin\Debug\ja\Teradata.Net.Security.Tdgss.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.exe
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.xml
+c:\users\user\documents\visual studio 2013\Projects\PIN003coba\PIN003coba\obj\Debug\PIN003coba.pdb
